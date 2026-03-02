@@ -34,7 +34,7 @@ npm install
 
 # Create a .env file with your database URL
 # DATABASE_URL="postgresql://user:password@host:5432/dbname"
-# DATABASE_URL="postgresql://postgres.wlararpmmztaxxungeom:[password]@aws-1-ap-south-1.pooler.supabase.com:6543/postgres" (for supabase if 5432 not work thrn use 6543
+# DATABASE_URL="postgresql://postgres.wlararpmmztaxxungeom:[password]@aws-1-ap-south-1.pooler.supabase.com:6543/postgres" (for supabase if 5432 not work thrn use 6543 )
 
 # Generate Prisma client and push schema to database
 npx prisma generate
