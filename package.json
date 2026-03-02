@@ -4,7 +4,7 @@
   "type": "module",
   "description": "Identity reconciliation service for Bitespeed - links customer contacts across multiple purchases",
   "scripts": {
-    "build": "npx prisma generate && npx prisma db push",
+    "build": "npx prisma generate",
     "start": "tsx src/index.ts",
     "dev": "tsx src/index.ts",
     "prisma:migrate": "prisma migrate dev",
