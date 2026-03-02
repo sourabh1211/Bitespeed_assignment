@@ -7,6 +7,8 @@ A backend web service that identifies and consolidates customer contact informat
 > **Base URL:** `https://bitespeed-identity-wqp5.onrender.com`
 >
 > **POST** `https://bitespeed-identity-wqp5.onrender.com/identify`
+>
+> > **GET** `https://bitespeed-identity-wqp5.onrender.com/contacts`
 
 ## Tech Stack
 
